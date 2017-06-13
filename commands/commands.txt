@@ -1,1 +1,6 @@
-~commands;~help;
+~commands;~rules;RULES | 1* No Spamming 2* Respect Staff! 3* Don't call the MusicBot into your room, if someone is using it, in another room! 
+~command;~link;LINKS | Steam Group: http://steamcommunity.com/groups/TheWayToJail Twitter: https://twitter.com/TWTF_Official
+~command;~help;HELP | All Commands: ~link   ~rules   ~staff   ~site
+~command;~staff;STAFF | Cool:http://steamcommunity.com/id/DanishDoom/ MokaiBoy:http://steamcommunity.com/profiles/76561198340616134 Mac_Nuggets:http://steamcommunity.com/profiles/76561198292275116 Jacko:http://steamcommunity.com/id/mynameisjuanxd Louie:http://steamcommunity.com/profiles/76561198299590183 You can write to one off those Profiles, If you need any type off support! :D
+~command;~site;SITE | Sorry, The site isn't ready yet. Please Contact the Owner, if you wan't more info about it!
+~command;~giveaway;GIVEAWAY | Sorry, The Giveaway isn't ready yet. Please Contact the Owner, if you wan't more info about it!
